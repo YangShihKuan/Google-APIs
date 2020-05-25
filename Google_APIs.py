@@ -12,7 +12,7 @@ import datetime
 
 #Perform request to use the Google Maps API web service
 #輸入新的金鑰
-API_key = 'AIzaSyBAVIjJTHWSegpcHpBU7xkbyR_jYYAXw9A'#enter Google Maps API key
+API_key = ''#enter Google Maps API key
 # 連線google apis服務
 gmaps = googlemaps.Client(key=API_key)
 
